@@ -1,0 +1,33 @@
+.navlink {
+    display: inline-flex;
+    justify-content: space-around;
+    width: 50%;
+    text-decoration: none;
+    color: white;
+    align-items:center;
+    margin-left: 2px;
+}
+
+.navlink li {
+list-style-type: none;
+list-style: none;
+color: white;
+align-items:center;
+}
+.navlink Link {
+color:white;
+text-decoration: none;
+letter-spacing: 3px;
+font-weight: bold;
+font-size: 15px;
+padding:10px 30px;
+align-items: center;
+}
+.navlink Link:hover{
+color:pink;
+text-decoration: none;
+}
+.true{
+    margin-left: 20px;
+    color: white;
+}
